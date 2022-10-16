@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\bin\Debug\NekolikoZadatakaZaVježbu.exe.config
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\bin\Debug\NekolikoZadatakaZaVježbu.exe
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\bin\Debug\NekolikoZadatakaZaVježbu.pdb
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\obj\Debug\NekolikoZadatakaZaVježbu.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\obj\Debug\NekolikoZadatakaZaVježbu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\obj\Debug\NekolikoZadatakaZaVježbu.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\obj\Debug\NekolikoZadatakaZaVježbu.exe
+C:\Users\LaPeM\source\repos\NekolikoZadatakaZaVježbu\NekolikoZadatakaZaVježbu\obj\Debug\NekolikoZadatakaZaVježbu.pdb
