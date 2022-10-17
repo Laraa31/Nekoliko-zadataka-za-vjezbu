@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZadatciZaVjezbuGabrielMatosevic20211211
+namespace ZadatciZaVjezbu
 {
     class KlasaC
     {
